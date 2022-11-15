@@ -22,3 +22,10 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### node_modules 文件夹：项目依赖
+babel:配置文件
+
+package.json:项目身份证  项目中的依赖 运行方式
+
+
